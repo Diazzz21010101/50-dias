@@ -1,0 +1,12 @@
+PROYECTO 50 DÍAS CONTIGO — LISTO PARA GITHUB PAGES
+
+IMPORTANTE: todos estos archivos van juntos en la RAÍZ del repositorio. No los pongas dentro de una carpeta adicional.
+
+1. Sube index.html y todos los archivos de imagen/audio que vienen en este ZIP a la raíz del repositorio.
+2. Si GitHub pregunta si debe reemplazar index.html, acepta reemplazarlo.
+3. El archivo de audio debe llamarse exactamente cancion.mp3 (sin tilde) y quedar junto a index.html.
+4. Las imágenes también deben quedar junto a index.html. Los nombres no distinguen mayúsculas/minúsculas en este paquete porque se usan nombres uniformes en minúscula.
+5. En GitHub: Settings > Pages > Deploy from a branch > principal (o main) > /(root) > Save.
+6. Espera a que termine el despliegue y recarga la página con Ctrl+F5.
+
+Sobre la música: la página intenta iniciarla al abrir, pero Chrome y otros navegadores pueden bloquear el sonido automático. Si ocurre, pulsa “Toca para escuchar la canción” o toca una vez cualquier parte de la página.
